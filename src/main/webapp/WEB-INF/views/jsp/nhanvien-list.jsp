@@ -4,7 +4,7 @@
 <title>Management employees hotel</title>
 <style>
 table, th, td {
-	border: 2px solid black;
+	border: 3px solid black;
 }
 td {
 	padding-right: 30px;
